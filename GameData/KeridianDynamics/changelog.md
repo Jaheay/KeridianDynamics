@@ -26,6 +26,8 @@
 * Rebalanced construction, launch, workshop, refinery, and recycling hardware
 * Updated crew capacities and selected part masses
 * Added stock inventory and ground placement support for portable launch and recycle sites when KIS is absent
+* Removed Stock SCON part additions when used with KD.
+* Fixed SCON Ratios which previously had a 1% Ore-> Metal Ratio created 5x mass when converting metal to rocket parts.
 
 #### Station and cargo tanks 0.8.99.8
 
